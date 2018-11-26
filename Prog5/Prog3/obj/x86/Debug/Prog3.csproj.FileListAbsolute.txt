@@ -1,0 +1,28 @@
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog3\Prog3\bin\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog3\Prog3\bin\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog3\Prog3\obj\x86\Debug\LibraryItems.BookForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog3\Prog3\obj\x86\Debug\LibraryItems.CheckoutForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog3\Prog3\obj\x86\Debug\LibraryItems.ItemFormBase.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog3\Prog3\obj\x86\Debug\LibraryItems.PatronForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog3\Prog3\obj\x86\Debug\LibraryItems.Prog3Form.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog3\Prog3\obj\x86\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog3\Prog3\obj\x86\Debug\LibraryItems.ReturnForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog3\Prog3\obj\x86\Debug\LibraryItems.SelectPatronForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog3\Prog3\obj\x86\Debug\Prog3.csproj.GenerateResource.Cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog3\Prog3\obj\x86\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog3\Prog3\obj\x86\Debug\Prog2.pdb
+C:\Users\New\Desktop\Visual Studio\CIS 200\Prog5\Prog3\bin\Debug\Prog2.exe
+C:\Users\New\Desktop\Visual Studio\CIS 200\Prog5\Prog3\bin\Debug\Prog2.pdb
+C:\Users\New\Desktop\Visual Studio\CIS 200\Prog5\Prog3\obj\x86\Debug\LibraryItems.BookForm.resources
+C:\Users\New\Desktop\Visual Studio\CIS 200\Prog5\Prog3\obj\x86\Debug\LibraryItems.CheckoutForm.resources
+C:\Users\New\Desktop\Visual Studio\CIS 200\Prog5\Prog3\obj\x86\Debug\LibraryItems.ItemFormBase.resources
+C:\Users\New\Desktop\Visual Studio\CIS 200\Prog5\Prog3\obj\x86\Debug\LibraryItems.PatronForm.resources
+C:\Users\New\Desktop\Visual Studio\CIS 200\Prog5\Prog3\obj\x86\Debug\LibraryItems.Prog3Form.resources
+C:\Users\New\Desktop\Visual Studio\CIS 200\Prog5\Prog3\obj\x86\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\New\Desktop\Visual Studio\CIS 200\Prog5\Prog3\obj\x86\Debug\LibraryItems.ReturnForm.resources
+C:\Users\New\Desktop\Visual Studio\CIS 200\Prog5\Prog3\obj\x86\Debug\LibraryItems.SelectPatronForm.resources
+C:\Users\New\Desktop\Visual Studio\CIS 200\Prog5\Prog3\obj\x86\Debug\Prog3.csproj.GenerateResource.Cache
+C:\Users\New\Desktop\Visual Studio\CIS 200\Prog5\Prog3\obj\x86\Debug\Prog2.exe
+C:\Users\New\Desktop\Visual Studio\CIS 200\Prog5\Prog3\obj\x86\Debug\Prog2.pdb
+C:\Users\New\Desktop\Visual Studio\CIS 200\Prog5\Prog3\obj\x86\Debug\Prog3.csprojAssemblyReference.cache
+C:\Users\New\Desktop\Visual Studio\CIS 200\Prog5\Prog3\obj\x86\Debug\Prog3.csproj.CoreCompileInputs.cache
